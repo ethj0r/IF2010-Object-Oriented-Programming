@@ -1,0 +1,12 @@
+1. Encapsulation
+Atribut a di kelas A dan b di kelas B dideklarasikan
+private, tidak bisa diakses langsung dari luar kelas.
+Akses hanya melalui method publik (setMe, getMe, print).
+Ini melindungi data dari modifikasi semvbarangan.
+
+2. Inheritance
+B mewarisi A dengan classB: public A. Artinya B otomatis
+punya semua member public dari A, termasuk getMe() dan setMe().
+A -> mewakili: int a, getMe(), setMe()
+B -> mewarisi A + menambah: int b, setMe(), print()
+
