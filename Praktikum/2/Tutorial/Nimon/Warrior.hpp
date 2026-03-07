@@ -4,7 +4,7 @@
 #include <string>
 #include "Creature.hpp"
 
-class Warrior : public Creature {
+class Warrior : public virtual Creature {
 protected:
     int armor;
     std::string weapon;
