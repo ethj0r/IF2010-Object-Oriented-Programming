@@ -1,0 +1,4 @@
+3
+ADD CAPS AEIOUaeiou
+VOKAL 1
+COUNT
