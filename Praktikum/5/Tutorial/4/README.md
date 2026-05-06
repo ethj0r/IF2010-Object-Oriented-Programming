@@ -1,0 +1,1 @@
+Anda diminta untuk melengkapi implementasi program untuk memanajemen perpustakaan. Implementasi program ini akan memanfaatkan pemahaman anda mengenai Collection API (Interface, Iterator, Algorithm) dan juga Stream API. Kumpulkan file SmartLibrary.java dan LibraryIterator.java pada solution.zip. Berikut adalah file yang anda butuhkan
